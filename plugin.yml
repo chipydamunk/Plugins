@@ -1,0 +1,10 @@
+name: vAdmin
+version: 1.0.0
+main: me.vAdmin.com.Main
+description: Admin mode
+author: SnipingVSATS
+commands:
+  Admin:
+   description: Puts you in Admin mode.
+  Vis:
+   description: Puts you in vis mode.
